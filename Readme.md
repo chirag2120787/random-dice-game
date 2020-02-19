@@ -1,4 +1,4 @@
-# Random dice Game
+# Random dice game
 We should check if we have a good chance of winning in a game with two dice. The values of
 the dice are added. We start the game with 50c. The profit is computed with the following table
 
